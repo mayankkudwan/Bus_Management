@@ -51,6 +51,3 @@ nodemon server.js
 
 3. **Customer Management**:
     - Manage customers block or delete as needed.
-## Contributors
--   Raunit Patel
-- Rohit Kumar
